@@ -70,8 +70,8 @@ Widget tests ship with the project; extend them to cover new states and interact
 
 Add your captures under `docs/screenshots/` and embed them below (example placeholders shown):
 
-| Search & Suggestions                   | Beautiful and Clean UI               |
-| -------------------------------------- | ------------------------------------ |
-| ![Search](docs/screenshots/search.png) | ![Clean UI](docs/screenshots/ui.png) |
+![Search](docs/screenshots/search.png)
+
+![Clean UI](docs/screenshots/ui.png)
 
 Built with Flutter 3.8+ — enjoy exploring the climate palette.
