@@ -1,5 +1,5 @@
-name: kathmandu_weather
-description: "A new Flutter project."
+name: global_weather_app_flutter_provider
+description: "A polished global weather explorer built with Flutter and Provider."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
